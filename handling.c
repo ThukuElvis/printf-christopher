@@ -1,4 +1,10 @@
 #include "main.h"
+/**
+ * printChar - Print single character
+ * @arguments:Arguments
+ *
+ * Return: number of characters printed
+ */
 
 
 
