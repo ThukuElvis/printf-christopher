@@ -19,7 +19,7 @@ int _printf(const char *format, ...)
 
 	conver_t funct_list[] =	{
 
-		{"c", u_char},
+		{"c", p_char},
 
 		{"s", p_string},
 
